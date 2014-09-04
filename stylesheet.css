@@ -1,6 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
 
-body{
+html{
 	font:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 }
+
+h1, h2{
+	color:rgba(117,37,38,1.00);
+}
+	
